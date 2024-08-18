@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @frukero
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
